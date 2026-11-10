@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Muhammad%20Aarish&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Intern%20&%20Full-Stack%20Developer&descSize=15&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Muhammad%20Aarish&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%Enthusiast%20&%20Full-Stack%20Developer&descSize=15&descAlignY=62" width="100%" />
 
 </div>
 
@@ -16,9 +16,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarish-irfan/aarish-irfan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarish-irfan/aarish-irfan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aarish-irfan/aarish-irfan/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -27,12 +27,12 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aarish-irfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarish-irfan&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarish-irfan&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <div align="center">
