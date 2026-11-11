@@ -19,15 +19,11 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: aarish-irfan
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+      - name: Push to main
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: main
-          default_author: github_actions
-          message: 'Generate contribution snake'
-          add: 'dist'
+          commit_message: "Update snake animation"
+          file_pattern: dist/*
