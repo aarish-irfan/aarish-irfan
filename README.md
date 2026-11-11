@@ -135,7 +135,7 @@ Detects attacks in cloud-network traffic with machine learning and shows them on
 ## [+] contact
 
 <p>
-  <a href="www.linkedin.com/in/muhammad-aarish-0188a7293"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-aarish-0188a7293"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
   <a href="mailto:aarishirfan06@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></a>
   <a href="https://aarish-portfolio-digi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio" /></a>
 </p>
