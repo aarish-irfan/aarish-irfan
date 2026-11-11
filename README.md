@@ -114,10 +114,6 @@ Detects attacks in cloud-network traffic with machine learning and shows them on
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarish-irfan&background=0D1117&border=0B3D1E&stroke=0B3D1E&ring=00FF41&fire=00E5FF&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="75%" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarish-irfan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&title_color=00FF41&hide_border=true&custom_title=Contribution%20Traffic" width="98%" alt="Contribution activity graph" />
-</div>
-
 <br/>
 
 <details>
@@ -139,9 +135,9 @@ Detects attacks in cloud-network traffic with machine learning and shows them on
 ## [+] contact
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio" /></a>
+  <a href="www.linkedin.com/in/muhammad-aarish-0188a7293"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="mailto:aarishirfan06@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></a>
+  <a href="https://aarish-portfolio-digi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio" /></a>
 </p>
 
 > ⚠️ **Disclaimer:** everything I test is done in my own lab or with explicit permission. Ethical hacking only.
