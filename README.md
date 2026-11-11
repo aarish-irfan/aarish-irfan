@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Muhammad%20Aarish&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%26%20Full-Stack%20Developer&descSize=15&descAlignY=62" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Muhammad%20Aarish&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20&%20Full-Stack%20Developer&descSize=15&descAlignY=62&width=100%" />
+
 </div>
 
 ### 🚀 About Me
